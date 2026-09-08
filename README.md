@@ -20,8 +20,18 @@ leetcode
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Saurav2105/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Saurav2105/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Saurav2105/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Saurav2105/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Saurav2105/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Saurav2105/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Saurav2105/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 <!---LeetCode Topics End-->
