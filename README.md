@@ -9,6 +9,7 @@ leetcode
 | [0054-spiral-matrix](https://github.com/Saurav2105/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saurav2105/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Saurav2105/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0697-degree-of-an-array](https://github.com/Saurav2105/leetcode/tree/main/0697-degree-of-an-array/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Saurav2105/leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -34,6 +35,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saurav2105/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0697-degree-of-an-array](https://github.com/Saurav2105/leetcode/tree/main/0697-degree-of-an-array/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Saurav2105/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Saurav2105/leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Counting
