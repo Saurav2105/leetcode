@@ -7,6 +7,7 @@ leetcode
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Saurav2105/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Saurav2105/leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Saurav2105/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saurav2105/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Saurav2105/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0697-degree-of-an-array](https://github.com/Saurav2105/leetcode/tree/main/0697-degree-of-an-array/) | Easy |
@@ -55,4 +56,12 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Saurav2105/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Saurav2105/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Saurav2105/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
