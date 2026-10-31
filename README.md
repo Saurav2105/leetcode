@@ -36,6 +36,7 @@ leetcode
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Saurav2105/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saurav2105/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0697-degree-of-an-array](https://github.com/Saurav2105/leetcode/tree/main/0697-degree-of-an-array/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Saurav2105/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -60,8 +61,17 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Saurav2105/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Saurav2105/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Saurav2105/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Saurav2105/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Saurav2105/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
